@@ -1,0 +1,15 @@
+D:\Tugas Skilvul\Kalkulator\bin\Debug\net7.0\Kalkulator.exe
+D:\Tugas Skilvul\Kalkulator\bin\Debug\net7.0\Kalkulator.deps.json
+D:\Tugas Skilvul\Kalkulator\bin\Debug\net7.0\Kalkulator.runtimeconfig.json
+D:\Tugas Skilvul\Kalkulator\bin\Debug\net7.0\Kalkulator.dll
+D:\Tugas Skilvul\Kalkulator\bin\Debug\net7.0\Kalkulator.pdb
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\Kalkulator.csproj.AssemblyReference.cache
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\Kalkulator.AssemblyInfoInputs.cache
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\Kalkulator.AssemblyInfo.cs
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\Kalkulator.dll
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\refint\Kalkulator.dll
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\Kalkulator.pdb
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\Kalkulator.genruntimeconfig.cache
+D:\Tugas Skilvul\Kalkulator\obj\Debug\net7.0\ref\Kalkulator.dll

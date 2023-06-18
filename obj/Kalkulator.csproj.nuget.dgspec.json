@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tugas Skilvul\\pengenalan C#\\Tugas Skilvul.csproj": {}
+    "D:\\Tugas Skilvul\\Kalkulator\\Kalkulator.csproj": {}
   },
   "projects": {
-    "D:\\Tugas Skilvul\\pengenalan C#\\Tugas Skilvul.csproj": {
+    "D:\\Tugas Skilvul\\Kalkulator\\Kalkulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tugas Skilvul\\pengenalan C#\\Tugas Skilvul.csproj",
-        "projectName": "Tugas Skilvul",
-        "projectPath": "D:\\Tugas Skilvul\\pengenalan C#\\Tugas Skilvul.csproj",
+        "projectUniqueName": "D:\\Tugas Skilvul\\Kalkulator\\Kalkulator.csproj",
+        "projectName": "Kalkulator",
+        "projectPath": "D:\\Tugas Skilvul\\Kalkulator\\Kalkulator.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Tugas Skilvul\\pengenalan C#\\obj\\",
+        "outputPath": "D:\\Tugas Skilvul\\Kalkulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"

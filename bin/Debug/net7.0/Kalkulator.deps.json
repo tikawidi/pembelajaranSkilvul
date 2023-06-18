@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Tugas Skilvul/1.0.0": {
+      "Kalkulator/1.0.0": {
         "runtime": {
-          "Tugas Skilvul.dll": {}
+          "Kalkulator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Tugas Skilvul/1.0.0": {
+    "Kalkulator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
